@@ -581,11 +581,11 @@ form .item #photos-preview img {
     max-width: 500px;
 }
 
-.form input[name="email"],
-.form input[name="password"],
-.form input[name="passwordRepeat"],
-.form input[name="cpf_cnpj"],
-.form input[name="cep"] {
+.user-register .form input[name="email"],
+.user-register .form input[name="password"],
+.user-register .form input[name="passwordRepeat"],
+.user-register .form input[name="cpf_cnpj"],
+.user-register .form input[name="cep"] {
     max-width: 60%;
 }
 
