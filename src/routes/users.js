@@ -24,6 +24,7 @@ routes.post('/register', UserValidator.post, UserController.post)
 
 routes.get('/', UserValidator.show, UserController.show)
 routes.put('/', UserValidator.update, UserController.update)
+
 // routes.delete('/', UserController.delete)
 
 module.exports = routes
