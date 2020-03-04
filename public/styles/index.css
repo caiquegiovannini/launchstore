@@ -595,5 +595,5 @@ form .item #photos-preview img {
     padding: 4px;
     border-radius: 4px;
     color: white;
-    max-width: 60%;
+    /* max-width: 60%; */
 }
